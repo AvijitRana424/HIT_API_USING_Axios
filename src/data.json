@@ -1,0 +1,32 @@
+[
+    {
+    "id":"2011",
+    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
+    },
+    {
+    "id":"2013",
+    "text": "You can observe a lot just by watching.",
+    "author": "Yogi Berra"
+    },
+    {
+     "id":"2015", 
+    "text": "A house divided against itself cannot stand.",
+    "author": "Abraham Lincoln"
+    },
+    {
+    "id":"2014",
+    "text": "Difficulties increase the nearer we get to the goal.",
+    "author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"2016",
+    "text": "Fate is in your hands and no one elses",
+    "author": "Byron Pulsifer"
+    },
+    {
+    "id":"2017",
+    "text": "Be the chief but never the lord.",
+    "author": "Lao Tzu"
+    }
+]
